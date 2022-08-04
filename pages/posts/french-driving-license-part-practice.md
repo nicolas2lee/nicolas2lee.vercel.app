@@ -24,7 +24,21 @@ author: nicolas2lee
 ### C1f - Utiliser la boite de vitesses.
 ### C1g - Diriger la voiture en avant en ligne droite et en courbe en adaptant allure et trajectoire.
 ### C1h - Regarder autour de soi et avertir.
+主要就是内视镜，左右后视镜的用法，在打方向盘前一定要先检查对应方向的左右视镜子，包括在s行路线上形式上的微调。对于车内后视镜，
+则每隔10秒就需要观察，确认车后是否有紧贴车辆，在速度下降之前一定要检查车内后视镜以避免后车追尾，包括踩刹车减速和松油门减速。
 ### C1i - Effectuer une marche arrière et un demi-tour en sécurité.
+1. 掉头
+   
+   掉头简单来说可以分为3步骤，以下以向左掉头为例:
+   1. 确认挂D档，向左打死方向盘，确认左右没车没人的时候，打左转向灯，低速前进，当车身横向时方向盘回正
+   2. 确认挂R档，向右打死方向盘，确认左右没车没人的时候，打右转向灯，低速后退
+   3. 确认挂D档，向左打死方向盘，确认左右没车没人的时候，打左转向灯，低速前进，当车身垂直时方向盘回正
+2. 倒车
+   
+   倒车相对来说比较简单，分为以下几个步骤:
+   1. 右手搭在副驾驶座位后面
+   2. 挂倒挡，低速
+   3. 头在左右后视镜，以及车正后方后窗来回观察，确保不会撞到行人车辆，同时保持直行后退，如遇别的车辆，需要让行
 
 在能力1课程结束后，基本已经学会开车了，后面课程主要是对交通规则理论的运用
 
@@ -32,6 +46,7 @@ author: nicolas2lee
 ### C2a - Rechercher la signalisation, les indices utiles et en tenir compte.
 会看各种标识，包括路牌panneaux，地上的标识以及不同的标识线，还有就是尽可能早的去获取信息，从而进行判断。
 一个典型的例子是在转弯的时候，在转弯前就应该去找你要前往的道路上的路牌。
+不是zone的路牌标识，在下一个交叉路口就失效。
 ### C2b - Positionner le véhicule sur la chaussée et choisir la voie de circulation.
 寻找合适的车道，并且在车道的中央行驶。首先最主要的是，我们都是靠右行驶，其次要会看各种标识，比如路牌，比如地上的标识线，还要时刻判断你所在车道是否是单行道。
 为什么要时刻判断是否在单行道是因为在城市里开车，有的时候车道的划分并不是很明显，比如地上没有车道的标识线，这个时候如果是单行道，只需要在车道中央行驶即可，
