@@ -152,3 +152,34 @@ public class PostController {
 ```
 
 [Zalando RESTful API Guide](https://opensource.zalando.com/restful-api-guidelines/#introduction)
+### Swagger
+使用spring doc来添加swagger，题外话这个lib是我前同事开发的
+```groovy
+	implementation 'org.springdoc:springdoc-openapi-ui:1.6.9'
+```
+
+```java
+@Configuration
+public class SwaggerConfig {
+    @Bean
+    public GroupedOpenApi api() {
+        return GroupedOpenApi.builder()
+                .group("quickstart-api")
+                .pathsToMatch("/**")
+                .build();
+    }
+}
+```
+### Actuator
+通过actuator可以方便实现observability，获取health, metrics, log等info
+```groovy
+	implementation 'org.springframework.boot:spring-boot-starter-actuator'
+```
+在application.yml种配置
+```yaml
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+```
