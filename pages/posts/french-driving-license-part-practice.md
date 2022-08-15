@@ -2,7 +2,7 @@
 title: 法国驾照之路考
 date: 2022-07-24
 description: 法国驾照之实践部分 - 路考
-tag: driving license
+tag: 驾照, driving license
 author: nicolas2lee
 ---
 

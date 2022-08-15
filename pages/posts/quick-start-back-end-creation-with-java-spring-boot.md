@@ -139,7 +139,7 @@ spring data jpa提供了3种方法来实习sql query
             nativeQuery = true)
         Collection<User> findAllActiveUsersNative();
         ```
-##### controller - 添加第一个AP
+##### controller - 添加API
 ```java
 @RestController
 @RequestMapping("/posts")

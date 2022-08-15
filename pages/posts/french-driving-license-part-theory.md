@@ -2,7 +2,7 @@
 title: 法国驾照之理论考
 date: 2022-07-24
 description: 法国驾照之理论部分
-tag: driving license
+tag: 驾照, driving license
 author: nicolas2lee
 ---
 
