@@ -48,6 +48,7 @@ author: nicolas2lee
 一个典型的例子是在转弯的时候，在转弯前就应该去找你要前往的道路上的路牌。
 不是zone的路牌标识，在下一个交叉路口就失效。
 ### C2b - Positionner le véhicule sur la chaussée et choisir la voie de circulation.
+[单向道](http://coachcode.e-monsite.com/medias/files/sens-unique.pdf)
 寻找合适的车道，并且在车道的中央行驶。首先最主要的是，我们都是靠右行驶，其次要会看各种标识，比如路牌，比如地上的标识线，还要时刻判断你所在车道是否是单行道。
 为什么要时刻判断是否在单行道是因为在城市里开车，有的时候车道的划分并不是很明显，比如地上没有车道的标识线，这个时候如果是单行道，只需要在车道中央行驶即可，
 但如果是双向的车道，则需要靠右行驶，以免占用对面驶来车道，所以道路是否是单行道的判断就尤其重要。
@@ -59,6 +60,7 @@ author: nicolas2lee
    如果是双向的车道，你所看到的左边的路牌应该是背向的，即对面行驶车辆应该能看到左边路牌的正面，所以你只能看到左边路牌的背面
 ### C2c - Adapter l'allure aux situations.
 ### C2d - Détecter, identifier et franchir les intersections suivant le régime de priorité.
+[优先级](http://coachcode.e-monsite.com/medias/files/priorites-a-droite.pdf)
 1. 行驶通过有红绿灯的十字路口
 如果是红灯，自然得停车等候，所以下面讨论的都是绿灯情况。
 通过有红绿灯的十字路口分为3种情况:
@@ -80,6 +82,12 @@ author: nicolas2lee
 5. 当靠近转弯口的时候，需要重复1，2，3步骤，由于重复以上所有步骤往往会导致反应时间过长，所以通常都是再重复2，3
 ### C2f - Franchir les ronds-points et les carrefours à sens giratoires.
 ### C2g - S'arrêter et stationner en épi, en bataille et en créneau.
+#### stationnement en créneau
+[stationnement en créneau](https://www.youtube.com/watch?v=8oxkwwypeIc&ab_channel=CONDUITEONLINE)
+#### stationnement en créneau
+[stationnement en créneau](https://www.youtube.com/watch?v=8oxkwwypeIc&ab_channel=CONDUITEONLINE)
+#### stationnement en bataille
+[stationnement en créneau](https://www.youtube.com/watch?v=8oxkwwypeIc&ab_channel=CONDUITEONLINE)
 
 ## 3
 ### C3a - évaluer et maintenir les distances de sécurité.
